@@ -1,10 +1,12 @@
 # Uber-Routing
-Course project of BMGT 831 2016. This file is finally updated on 5/9/2016
+Course project of BMGT 831 Linear Programming and Network Optimization. This file was updated on 5/9/2016
 
 Authors: Yang Xie, Zhiyuan Yang, Mingze Gao
 
 ## Problem description:
-Given a road network, real-time customer information and competitor information, the goal of this work is to maximize income by prepositioning the car and making decisions on which customers to pick-up.
+Given a road network, real-time customer information and competitor information, the goal of this work is to maximize income by prepositioning the car and making decisions on which customers to pick-up. The basic idea is to compute the expected income of a location by looking ahead t steps (using Markov chain). 
+
+This project received the first place in the class and won the 'Jeremiah Golden Prize'.
 	
 ## Instructions to use the program: 
 1. Open the "main.m" file 
