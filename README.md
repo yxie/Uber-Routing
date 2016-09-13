@@ -2,6 +2,9 @@
 Course project of BMGT 831 2016. This file is finally updated on 5/9/2016
 
 Authors: Yang Xie, Zhiyuan Yang, Mingze Gao
+
+Problem description:
+Given a road network, real-time customer information and competitor information, the goal of this work is to maximize income by prepositioning the car and making decisions on which customers to pick-up.
 	
 Instructions to use the program: 
 
