@@ -1,0 +1,5 @@
+Line 1: n where size(G) = n by n
+Line 2 thru n+1: matrix G
+Line n+2: vector P: (P(i) is demand rate at node i)
+Line n+3: k: (number of competitor cars)
+Line n+4: S: (Starting position of your car, then k competitor cars)
